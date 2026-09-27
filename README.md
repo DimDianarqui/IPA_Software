@@ -71,7 +71,8 @@ Se abrirá automáticamente en el navegador en `http://127.0.0.1:7860`.
 
 ```
 .
-├── app.py          # Aplicación Gradio (interfaz + lógica del método IPA)
+├── proyectoalgebra-interfaz-AnexoA.py       # Aplicación de Gradio (Interfaz + Lógica del método IPA)
+├── proyectoalgebra-consola-AnexoB.py         # Aplicación en consola (lógica del método IPA) para comprobar los resultados obtenidos
 └── README.md        # Este archivo
 ```
 
