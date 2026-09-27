@@ -10,7 +10,6 @@ Profesora: Andrea Fernanda Muñoz Potosi
 - Ardila Quintero Diego Andrés — Ing. Software
 - Keyner Steven García Anaya — Ing. Software
 - Sebastián Soto Mora — Ing. Software
-- Kenneth Daniel Santiago Merchán — Ing. CCIA
 
 ---
 
